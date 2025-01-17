@@ -1,0 +1,2 @@
+php_flag session.auto_start 1
+DirectoryIndex login.php
